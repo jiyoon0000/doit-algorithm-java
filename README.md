@@ -34,3 +34,17 @@ Java로 Do it! 알고리즘 코딩 테스트 교재를 기반으로 문제를 �
   - 📄 README 요약: [chapter01_preparation](src/chapter01_preparation)  
   - 📝 블로그 정리: [정리글](https://jy3574.tistory.com/entry/%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84Time-Complexity)
 
+
+---
+
+## 02. 코드의 논리 오류 잡기
+
+### 📌 개념 정리
+- 디버깅 중요성 및 활용 사례
+  - 📄 README 요약: [chapter02_basic](src/chapter02_basic)  
+  - 📝 블로그 정리: [정리글](https://jy3574.tistory.com/entry/%EB%94%94%EB%B2%84%EA%B9%85Debugging-%EB%85%BC%EB%A6%AC-%EC%98%A4%EB%A5%98%EB%A5%BC-%EC%A4%84%EC%9D%B4%EB%8A%94-%ED%99%95%EC%8B%A4%ED%95%9C-%EB%B0%A9%EB%B2%95)
+ 
+
+
+
+
