@@ -45,6 +45,15 @@ Java로 Do it! 알고리즘 코딩 테스트 교재를 기반으로 문제를 �
   - 📝 블로그 정리: [정리글](https://jy3574.tistory.com/entry/%EB%94%94%EB%B2%84%EA%B9%85Debugging-%EB%85%BC%EB%A6%AC-%EC%98%A4%EB%A5%98%EB%A5%BC-%EC%A4%84%EC%9D%B4%EB%8A%94-%ED%99%95%EC%8B%A4%ED%95%9C-%EB%B0%A9%EB%B2%95)
  
 
+---
+
+## 03. 코딩 테스트 오답 유형
+
+### 📌 개념 정리
+- 자주 실수하는 유형 정리
+  - 📄 README 요약: [chapter03_practice](src/chapter03_practice)
+  - 📝 블로그 정리: [정리글](https://jy3574.tistory.com/entry/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%98%A4%EB%8B%B5-%EC%9C%A0%ED%98%95-%EC%A0%95%EB%A6%AC)
+
 
 
 
